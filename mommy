@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For My Valentine 💖</title>
+  <style>
+    body {
+      background-color: pink;
+      text-align: center;
+      font-family: Arial;
+    }
+    h1 { color: red; }
+  </style>
+</head>
+<body>
+  <h1>Happy Valentine’s Day 💕</h1>
+  <p>You are the best thing that ever happened to me.</p>
+  <img src="yourphoto.jpg" width="300">
+  <p>Love you always 💖</p>
+</body>
+</html>
